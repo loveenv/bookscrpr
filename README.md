@@ -2,6 +2,8 @@
 
 <img src="./assets/folders.png" alt="Folders" width="300" height="440">
 
+## Complete credit to https://github.com/Infatoshi
+
 ## Purpose
 If you wake up and feel like attempting to master every topic ever, this repo is a good place to start. It contains a script that scrapes ~1500 textbooks from the internet. The textbooks are organized by topic and subtopic.
 
