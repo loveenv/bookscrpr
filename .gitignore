@@ -1,0 +1,7 @@
+topics/
+.venv/
+venv/
+my_scraper_project/
+__pycache__/
+*.pdf
+.DS_Store
